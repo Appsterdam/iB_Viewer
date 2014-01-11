@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  BeaconsViewController.h
 //  iBeacon
 //
 //  Created by Marc van de Langenberg on 11-01-14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface BeaconsViewController : UITableViewController
 
 @end

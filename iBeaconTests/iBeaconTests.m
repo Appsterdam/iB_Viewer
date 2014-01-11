@@ -3,7 +3,7 @@
 //  iBeaconTests
 //
 //  Created by Marc van de Langenberg on 11-01-14.
-//  Copyright (c) 2014 Nspyre. All rights reserved.
+//  Copyright (c) 2014 Appsterdam. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
